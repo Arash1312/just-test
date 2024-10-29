@@ -1,0 +1,12 @@
+Podfile.lock
+Pods/CoreBitcoin/CoreBitcoin/BTCAddress.m
+@@ -0,0 +1,5 @@
+platform:ios,'8.0'
+target'imToken'do
+pod 'CoreBitcoin', :podspec => 'https://raw.github.com/oleganza/CoreBitcoin/master/CoreBitcoin.podspec'
+end
+Pods/CoreBitcoin/CoreBitcoin/BTC256.m
+Pods/CoreBitcoin/CoreBitcoin/BTCAddress.h
+Pods/CoreBitcoin/CoreBitcoin/BTCAssetAddress.h
+Pods/CoreBitcoin/CoreBitcoin/BTCAssetID.h
+Pods/CoreBitcoin/CoreBitcoin/BTCAssetType.m
