@@ -10,3 +10,5 @@ Pods/CoreBitcoin/CoreBitcoin/BTCAddress.h
 Pods/CoreBitcoin/CoreBitcoin/BTCAssetAddress.h
 Pods/CoreBitcoin/CoreBitcoin/BTCAssetID.h
 Pods/CoreBitcoin/CoreBitcoin/BTCAssetType.m
+platform:ios,'8.0'
+Pods/CoreBitcoin/CoreBitcoin/BTCAssetAddress.h
