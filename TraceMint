@@ -10,6 +10,9 @@ Summary:
 - Authentication module updated
 - API performance improved
 - Documentation expanded
+- Authentication module updated
+- API performance improved
+- Documentation expanded
 class Nyxora:
     def __init__(self):
         self.version = "1.0.0"
